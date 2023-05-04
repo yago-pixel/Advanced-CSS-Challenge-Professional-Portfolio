@@ -1,45 +1,138 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" type="text/css" href="./assets/css/style.css"/>
-    <title>Drywall Instalation</title>   
+    <link rel="stylesheet" type="text/css" href="./assets/css/style.css" />
+    <title>Drywall Instalation</title>
+    <style>
+        * {
+            padding: 0;
+            margin: 0;
+        }
+
+        header {
+            display: 10px;
+            align-items: center;
+            justify-content: center;
+            padding: 20px;
+            background-color: rgb(207, 207, 205);
+            color: rgb(207, 207, 205);
+            font-family: Arial, Helvetica, sans-serif;
+
+        }
+
+        section {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 80vh;
+        }
+
+        font {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        form.div {
+            display: flex;
+            flex-direction: column;
+            margin-bottom: 30px;
+        }
+
+        form input,
+        form textarea {
+            outline: unset;
+            padding: 20px;
+            min-width: 300px;
+            border: 1px solid cornflowerblue;
+            border-radius: 20px;
+        }
+
+        form input:focus,
+        form textarea:focus {
+            background-color: wheat;
+
+        }
+
+        form.input[type-submit] {
+            background-color: cornflowerblue;
+            color: aliceblue;
+            cursor: pointer;
+
+        }
+
+        form label {
+            margin-left: 10px;
+
+        }
+    </style>
 </head>
+
 <body>
+
+
     <header>
-        <h1>Drywall Instalation</h1>
+        <h1><strong>ORIGINAL DRYWALL</strong></h1>
         <nav>
             <ul>
                 <li><a href="#">Our History</a></li>
-                <li><a href="#">Contact</li>
+                <li><a href="">Contact</li>
                 <li><a href="#">Services</a></li>
                 <li><a href="#">Gallery</a></li>
             </ul>
         </nav>
+        <style>
+            body {
+                background-image: url(pictures/original.jpg.jpg);
+                background-position: right top;
+                background-size: 90px;
+                background-repeat: no-repeat;
+            }
+        </style>
     </header>
 
     <section>
-        <img src="pictures/original.jpg.jpg" alt="Original Construction"/>
+        <img src="pictures/original.jpg.jpg" alt="Original Construction" />
+        <div>
+            <label>Name</label>
+            <input type="text" placeholder="Describe your name" name="name" required />
+        </div>
+        <div>
+            <label>Cellphone</label>
+            <Input type="text" placeholder="Describe your cellphone" name="cellphone" required />
+        </div>
+        <div>
+            <label>Text message</label>
+            <textarea rows=1 name="message" required></textarea>
+        </div>
+        <div>
+            <input type="submit" value="Submit" />
+        </div>
     </section>
-    
+
     <nav>
+        <a href="https://www.instagram.com/originalconstructionn/">Visit our Instagram</a>
+        <a href="https://www.facebook.com/yago.lira.98">Facebook</a>
         <a href="#">Free Quote</a>
-        <a href="#">Promotions</a>
-        <a href="#">Visit our Instagram</a>
     </nav>
-    
+
     <main>
-<h2><strong>Frequently Asked Questions</strong></h2>
-<h2>Is installing drywall better then plastering walls?</h2>
-<p><h3>Drywall is so popular because installing it is considerably faster and cheaper than plastering. Because plastering involves applying a wet material, it's more time-consuming, takes longer to dry, and is more prone to cracking. It doesn't tend to be as insulating either.</h3></p>
-</div>
+        <h2><strong>YOUR TRUSTED DRYWALL CONTRACTOR</strong></h2>
+        <p>
+        <h3>Our prices are competitive when compared to other drywall installation companies in the GTA. The cost to
+            install drywall will depend on the size of your project and the different trades you will need our
+            assistance on. Ideally you can submit the details of your project via our contact form or contact us by
+            phone to get a quote.</h3>
+        </p>
+        </div>
         </section>
     </main>
-    <button>Select Your Payment</button>
-    
+    <button>God Bless You</button>
+
     <footer>We're really proud of the great work we do for our valuable clients.</footer>
-    
+
 </body>
+
 </html>
