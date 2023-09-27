@@ -10,11 +10,11 @@
 
 ## Description:
 
-It's my small company from GTA-ONTARIO to giving the best company  ever of drywall instalation. Best price,quality and attention.
+This is a Portfolio landing page, which presents my Github profile in a professional portfolio landing page, my instagram as a stuff to demonstrate my work and my Facebook showing the samething.
 
 ## Usage
 
-Just give to us your Name and cellphone and on first time explain where and time to do a meeting and see the best deal ever.
+The navigation bar will bring you to the three sections: Github, Portfolio and Contact,Facebook and Instagram where you can fill out a form to contact me. The rest of the page presents my Github and my portfolio.
 
 ## License
 
