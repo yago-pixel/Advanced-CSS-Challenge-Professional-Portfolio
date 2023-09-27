@@ -89,3 +89,9 @@ button {
   font-style: italic;
   margin: 10px;
 }
+. main {
+  color: #000509;
+  display: flex;
+  justify-content: center;
+  padding: 144%;
+}
