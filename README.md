@@ -16,6 +16,13 @@ This is a Portfolio landing page, which presents my Github profile in a professi
 
 The navigation bar will bring you to the three sections: Github, Portfolio and Contact,Facebook and Instagram where you can fill out a form to contact me. The rest of the page presents my Github and my portfolio.
 
+Firt time, i link only the my interest portfolio that is, Instagram, Facebook and Github.
+On the bottom when you clik on the Instagram will show up everything about me.
+
+And you can continue look on the as Facebook.
+
+And my professional Portfolio is Github where you can see my whole projects.
+
 ## License
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) <br>
