@@ -21,8 +21,9 @@ The navigation bar will bring you to the three sections: Github, Portfolio and C
 Firt time, i link only the my interest portfolio that is, Instagram, Facebook and Github.
 
 
-![Screenshot 2023-09-30 111820](https://github.com/yago-pixel/modulo2/asse![Screenshot 2023-09-30 111805](https://github.com/yago-pixel/modulo2/assets/119789668/9cd8e7ff-bdc7-4818-b5cb-4c26915b175e)
-ts/119789668/240b9f4e-831a-44f3-bb46-5ef3222656a4)
+![Screenshot 2023-09-30 111820](https://github.com/yago-pixel/modulo2/assets/119789668/240b9f4e-831a-44f3-bb46-5ef3222656a4)
+
+![Screenshot 2023-09-30 111805](https://github.com/yago-pixel/modulo2/assets/119789668/9cd8e7ff-bdc7-4818-b5cb-4c26915b175e)
 
 
 On the bottom when you clik on the Instagram will show up everything about me.
