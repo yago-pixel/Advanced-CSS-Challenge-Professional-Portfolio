@@ -15,6 +15,7 @@ This is a Portfolio landing page, which presents my Github profile in a professi
 ## Usage
 
 The navigation bar will bring you to the three sections: Github, Portfolio and Contact,Facebook and Instagram where you can fill out a form to contact me. The rest of the page presents my Github and my portfolio.
+Click here to view [PROTFOLIO](C:\Users\yagol\OneDrive\Área de Trabalho\assignments\modulo2\index.html).
 
 #Fisrt time, i link only the my interest portfolio that is, Instagram, Facebook and Github.
 
